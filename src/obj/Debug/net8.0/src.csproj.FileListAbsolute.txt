@@ -12,3 +12,4 @@
 /home/fhallein/axxes/beach/test/csharp-testing/src/obj/Debug/net8.0/src.pdb
 /home/fhallein/axxes/beach/test/csharp-testing/src/obj/Debug/net8.0/src.genruntimeconfig.cache
 /home/fhallein/axxes/beach/test/csharp-testing/src/obj/Debug/net8.0/ref/src.dll
+/home/fhallein/axxes/beach/test/csharp-testing/src/obj/Debug/net8.0/src.sourcelink.json
